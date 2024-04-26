@@ -1,4 +1,7 @@
 ### Hi there 👋
+- Ph.D. Researcher @University of Turku 
+- 📊 Unraveling the Mysteries of Data
+
 
 <!--
 **SepehrSeifi/SepehrSeifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
